@@ -1,9 +1,10 @@
 ##           A Simple Text Adventure                                         ##
-##                  Version 0.1                                              ##
+##                  Version 0.3                                              ##
 ##                                                                           ##
-##      Author: SheyMouse - June 2012                                        ##
+##         Author: SheyMouse - June 2012                                     ##
 ##                                                                           ## 
-##  Written as part ofExercise 36 from Learn Python the Hard Way by Z. A.Shaw##
+##        Written as part of Exercise 36 from                                ##
+##       Learn Python the Hard Way by Z. A.Shaw                              ##
 ##              http://learnpythonthehardway.org                             ##
 ##                                                                           ##
 ##  A simple text adventure which takes a player linearly through a set of   ##
